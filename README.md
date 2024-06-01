@@ -1,2 +1,1 @@
-# opensouce-gwaje
-오픈소스 과제 2
+# opensouce-gwaje 20243124 김선재
